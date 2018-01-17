@@ -26,5 +26,34 @@ namespace AuthorSampleWebPage.Controllers
 
             return View();
         }
+
+        public ActionResult SampleParagraph()
+        {
+            return View();
+        }
+        public ActionResult Thesis()
+        {
+            return View();
+        }
+        public ActionResult MlaVsApa()
+        {
+            return View();
+        }
+        public ActionResult WritingProcess()
+        {
+            return View();
+        }
+        public ActionResult BodyParagraph()
+        {
+            return View();
+        }
+        public ActionResult Assignment()
+        {
+            return View();
+        }
+        public ActionResult Conclusion()
+        {
+            return View();
+        }
     }
 }
