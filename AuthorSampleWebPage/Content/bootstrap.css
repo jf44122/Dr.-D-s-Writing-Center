@@ -49,6 +49,12 @@ a:active,
 a:hover {
   outline: 0;
 }
+
+
+a:link {
+        color: darkblue;
+    }
+
 abbr[title] {
   border-bottom: 1px dotted;
 }
@@ -1082,11 +1088,11 @@ html {
   -webkit-tap-highlight-color: white;
 }
 body {
-    font-family: "Pacifico", cursive;
+    font-family: 'Merriweather', serif;
+    font-family: 'PT Serif', serif;
     font-size: 20px;
     line-height: 1.4;
     color: #000;
-    
 }
 input,
 button,
