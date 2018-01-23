@@ -199,6 +199,7 @@
     <Content Include="Views\Home\BodyParagraph.cshtml" />
     <Content Include="Views\Home\Assignment.cshtml" />
     <Content Include="Views\Home\Conclusion.cshtml" />
+    <Content Include="Views\Home\Introduction.cshtml" />
     <None Include="_bin_deployableAssemblies\x86\sqlcese40.dll" />
     <None Include="_bin_deployableAssemblies\x86\sqlceqp40.dll" />
     <None Include="_bin_deployableAssemblies\x86\sqlceme40.dll" />

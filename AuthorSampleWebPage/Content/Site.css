@@ -30,4 +30,17 @@ textarea {
     text-align: center;
     color: white;
 }
+.red {
+    color: red;
+}
 
+#center{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+}
+.shadows {
+    color: red;
+    font-family: 'Shadows Into Light', cursive;
+}

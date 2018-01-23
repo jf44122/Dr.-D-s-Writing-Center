@@ -55,5 +55,9 @@ namespace AuthorSampleWebPage.Controllers
         {
             return View();
         }
+        public ActionResult Introduction()
+        {
+            return View();
+        }
     }
 }
